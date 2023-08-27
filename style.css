@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+}
+
+canvas {
+    position: fixed;
+}
+
+h1 {
+    position: absolute;
+    color: white;
+}
